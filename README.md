@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My Name is Yathish R 🦸🏼, I am a CSE gradutate working on Blockchain technology and also as Full Stack Developer.
+### My Name is Yathish R 🦸🏼, I am a CSE gradutate working as Blockchain Developer and also as Full Stack Developer.
 ---
 Well Github released this new feature to alternate as a description to the profile. So what shall you find here?
 1. Some simple Dapps
