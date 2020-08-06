@@ -12,6 +12,8 @@ Well Github released this new feature to alternate as a description to the profi
 - I'm currently learning how to code better 👨‍💻 and brew the perfect cup of coffee ☕
 - Ask me about how to learn Blockchain and Full stack. 
 
+![](test.gif)
+
 > Untold Truth: The number of commits in each repo is directly proportional the number of Stackoverflow solutions used.
 
 [Take me to your website](http://www.yathish.me/portfolio/)
