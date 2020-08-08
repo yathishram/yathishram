@@ -18,7 +18,7 @@ Well Github released this new feature to alternate as a description to the profi
 
 [Take me to your website](http://www.yathish.me/portfolio/)
 
-![Yathish's github stats](https://github-readme-stats.vercel.app/api?username=yathishram&show_icons=true&theme=radical)
+![Yathish's github stats](https://github-readme-stats-mu-weld.vercel.app/api?username=yathishram&show_icons=true&theme=radical)
 
 <!--
 **yathishram/yathishram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
