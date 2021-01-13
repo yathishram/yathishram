@@ -12,13 +12,15 @@ Well Github released this new feature to alternate as a description to the profi
 - I'm currently learning how to code better 👨‍💻 and brew the perfect cup of coffee ☕
 - Ask me about how to learn Blockchain and Full stack. 
 
-![](test.gif)
 
 > Untold Truth: The number of commits in each repo is directly proportional the number of Stackoverflow solutions used.
 
 [Take me to your website](http://www.yathish.me/portfolio/)
 
 ![Yathish's github stats](https://github-readme-stats-mu-weld.vercel.app/api?username=yathishram&show_icons=true&theme=radical)
+![Yathish's lang stats](https://github-readme-stats-mu-weld.vercel.app/api/top-langs/?username=yathishram&show_icons=true&theme=radical)
+
+
 
 <!--
 **yathishram/yathishram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
