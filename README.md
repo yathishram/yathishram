@@ -4,26 +4,21 @@
 <h3 align="center">Hi there, My Name is Yathish R,
 <br>Blockchain Developer, Full Stack Developer, full time javaphile and part time procrastinator.
 </h3>
+
 <p align='center'>
 <a href="https://twitter.com/yathishram_"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/yathish-r-1b6040165/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/yathish_ram/"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-<p>
-<img height="50" width="50" align="left" src="./img/work.png">
-You can find me decentralising at Consenso Labs
-</p>
+---
 
-<p>
-<img height="50" width="50" align="left" src="./img/idea.png">
-Ask me about how to learn Blockchain and Full stack.
-</p>
+👨‍💻 You can find me decentralising at Consenso Labs
 
-<p>
-<img height="50" width="50" align="left" src="./img/learning.png">
-I'm currently working on making a world better place (A constant lie) and also learning how to code better and brew the perfect cup of coffee
-</p>
+💡 Ask me about how to learn Blockchain and Full stack.
+
+🏁 I'm currently working on making a world better place (A constant lie) and also learning how to code better and brew the perfect cup of coffee
+
 
 
 ---
@@ -51,6 +46,8 @@ I'm currently working on making a world better place (A constant lie) and also l
 </p>
 
 ---
+
+
 
 <p align="center">
 <a href="https://www.yathish.me/portfolio/"><img height="500" width="500" src="./img/Saly-12.png">
