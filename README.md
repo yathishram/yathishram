@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-<a href="https://www.yathish.me/portfolio/"><img height="500" width="500" src="./img/Saly-13.png">
+<img height="500" width="500" src="./img/Saly-13.png">
 </p>
 <h3 align="center">You can find me building away with</h3>
 <p align="center">
@@ -49,14 +49,14 @@
 
 
 <p align="center">
-<a href="https://www.yathish.me/portfolio/"><img height="500" width="500" src="./img/Saly-12.png">
+<img height="500" width="500" src="./img/Saly-12.png">
 </p>
- 
 <h3 align="center">Now, onto some geeky Github stats!</h3>
 
 ![Yathish's github stats](https://github-readme-stats-mu-weld.vercel.app/api?username=yathishram&show_icons=true&theme=radical)
 ![Yathish's lang stats](https://github-readme-stats-mu-weld.vercel.app/api/top-langs/?username=yathishram&layout=compact&theme=radical)
 
+> Untold Truth: The number of commits in each repo is directly proportional the number of Stackoverflow solutions used.
 <!-- ### Hi there 👋
 ### My Name is Yathish R 🦸🏼, I am a CSE gradutate working as Blockchain Developer and also as Full Stack Developer.
 ---
