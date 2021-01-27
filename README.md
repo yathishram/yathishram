@@ -39,10 +39,9 @@
 <p align="center">
 <img height="30" src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=563D7C"></a>
 <img height="30" src="https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"></a>
-<img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<img height="30" src="https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <img height="30" src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=4EA94B"></a>
 <img height="30" src="https://img.shields.io/badge/Ethereum-323330?style=for-the-badge&logo=ethereum&logoColor=white"></a>
-<img height="30" src="https://img.shields.io/badge/Redux-323330?style=for-the-badge&logo=redux&logoColor=593D88"></a>
 </p>
 
 ---
