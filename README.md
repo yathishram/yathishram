@@ -55,8 +55,8 @@
  
 <h3 align="center">Now, onto some geeky Github stats!</h3>
 
-![Yathish's github stats](https://github-readme-stats-mu-weld.vercel.app/api?username=yathishram&show_icons=true&theme=radical)
-![Yathish's lang stats](https://github-readme-stats-mu-weld.vercel.app/api/top-langs/?username=yathishram&show_icons=true&theme=radical)
+![Yathish's github stats](https://github-readme-stats-mu-weld.vercel.app/api?username=yathishram&show_icons=true)
+![Yathish's lang stats](https://github-readme-stats-mu-weld.vercel.app/api/top-langs/?username=yathishram&layout=compact)
 
 <!-- ### Hi there 👋
 ### My Name is Yathish R 🦸🏼, I am a CSE gradutate working as Blockchain Developer and also as Full Stack Developer.
