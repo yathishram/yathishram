@@ -48,13 +48,13 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
 <img height="500" width="500" src="./img/Saly-12.png">
 </p>
 <h3 align="center">Now, onto some geeky Github stats!</h3>
 
 ![Yathish's github stats](https://github-readme-stats-mu-weld.vercel.app/api?username=yathishram&show_icons=true&theme=radical)
-![Yathish's lang stats](https://github-readme-stats-mu-weld.vercel.app/api/top-langs/?username=yathishram&layout=compact&theme=radical)
+![Yathish's lang stats](https://github-readme-stats-mu-weld.vercel.app/api/top-langs/?username=yathishram&layout=compact&theme=radical) -->
 
 > Untold Truth: The number of commits in each repo is directly proportional the number of Stackoverflow solutions used.
 <!-- ### Hi there 👋
