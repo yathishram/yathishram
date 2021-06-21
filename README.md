@@ -76,8 +76,6 @@ Well Github released this new feature to alternate as a description to the profi
 
 [Take me to your website](http://www.yathish.me/portfolio/)
 
-![Yathish's github stats](https://github-readme-stats-mu-weld.vercel.app/api?username=yathishram&show_icons=true&theme=radical)
-![Yathish's lang stats](https://github-readme-stats-mu-weld.vercel.app/api/top-langs/?username=yathishram&show_icons=true&theme=radical)
 
 
 
