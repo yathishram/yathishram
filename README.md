@@ -13,7 +13,7 @@
 
 ---
 
-👨‍💻 You can find me decentralising at Consenso Labs
+👨‍💻 You can find me decentralising at Samudai
 
 💡 Ask me about how to learn Blockchain and Full stack.
 
