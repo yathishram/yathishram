@@ -2,7 +2,7 @@
 <a href="https://www.yathish.me/portfolio/"><img height="500" width="500" src="./img/Saly-10.png">
 </p>
 <h3 align="center">Hi there, My Name is Yathish R,
-<br>Blockchain Developer, Full Stack Developer, full time javaphile and part time procrastinator.
+<br>Backend Engineer, full time javaphile and part time procrastinator.
 </h3>
 
 <p align='center'>
@@ -13,9 +13,9 @@
 
 ---
 
-👨‍💻 You can find me decentralising at Samudai
+👨‍💻 You can find me building kick ass products at Arda Finance
 
-💡 Ask me about how to learn Blockchain and Full stack.
+💡 Ask me about how to learn Backend
 
 🏁 I'm currently working on making a world better place (A constant lie) and also learning how to code better and brew the perfect cup of coffee
 
