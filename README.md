@@ -13,7 +13,7 @@
 
 ---
 
-👨‍💻 You can find me building kick ass products at Arda Finance
+👨‍💻 You can find me building kick ass products at Sei
 
 💡 Ask me about how to learn Backend
 
