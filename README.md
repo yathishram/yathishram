@@ -20,9 +20,6 @@
 
 ---
 
-<p align="center">
-<img height="500" width="500" src="./img/Saly-13.png">
-</p>
 <h3 align="center">You can find me building away with</h3>
 <p align="center">
 <img height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
