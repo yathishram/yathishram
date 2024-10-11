@@ -1,6 +1,3 @@
-<p align="center">
-<a href="https://www.yathish.me/portfolio/"><img height="500" width="500" src="./img/Saly-10.png">
-</p>
 <h3 align="center">Hi there, My Name is Yathish R,
 <br>Backend Engineer, full time javaphile and part time procrastinator.
 </h3>
@@ -13,7 +10,7 @@
 
 ---
 
-👨‍💻 You can find me building kick ass products at Sei
+👨‍💻 You can find me building kick ass products at Sei AI
 
 💡 Ask me about how to learn Backend
 
