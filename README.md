@@ -9,7 +9,7 @@ I'm a **Software Engineer** with expertise in backend development, focusing on d
 - **Languages & Frameworks**: Typescript, Go, NodeJS, Python
 - **Databases**: MongoDB, Postgres, SQL, Redis
 - **Cloud & DevOps**: AWS, Docker, CI/CD, Terraform
-- **Others**: Kakfa, Message queues. Elastic Search, WebSockets, Webhooks, Cache Management, Voice bots, AI tools
+- **Others**: Kafka, Message queues. Elastic Search, WebSockets, Webhooks, Cache Management, Voice bots, AI tools
 
 ## 📫 Find me at
 
