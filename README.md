@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Yathish R
+# Hi, I'm Yathish R 👋
 
-I'm a **Software Engineer** with expertise in backend development, focusing on scalable, high-performance solutions.
+I'm a **Software Engineer** with expertise in backend development, focusing on desining and building scalable, high-performance solutions.
 
-- 📍 **Current Role**: Software Engineer at Sei AI
+- 📍 **Current Role**: Senior Software Engineer at Sei AI
 
 ## 🔧 Technical Skills
 
-- **Languages & Frameworks**: Typescript, NestJS, Python, Java
+- **Languages & Frameworks**: Typescript, Go, NodeJS, Python
 - **Databases**: MongoDB, Postgres, SQL, Redis
-- **Cloud & DevOps**: AWS, Docker, CI/CD
-- **Others**: Elastic Search, WebSockets, Webhooks, Cache Management, Message Queues
+- **Cloud & DevOps**: AWS, Docker, CI/CD, Terraform
+- **Others**: Kakfa, Message queues. Elastic Search, WebSockets, Webhooks, Cache Management, Voice bots, AI tools
 
 ## 📫 Find me at
 
